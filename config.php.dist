@@ -1,0 +1,5 @@
+<?php
+
+$dockerhub_hook_url = 'https://registry.hub.docker.com/u/your-name/your-project/trigger/security-token/';
+
+?>
