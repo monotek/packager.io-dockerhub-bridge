@@ -4,4 +4,4 @@ The webhooks on packager.io unfortunately dont work to trigger docker image buil
 
 This script is a bridge / wrapper to achieve this goal anyway.
 
-Just configure packager.io to access this script and the configured dockerhub webhook ind config.php will trigger the build.
+Just configure packager.io to access this script and the configured dockerhub webhook in config.php will trigger the build.
